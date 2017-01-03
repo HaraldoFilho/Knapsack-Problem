@@ -1,0 +1,115 @@
+Lendo arquivo 'instancias/frb30-15-2-size.in'...
+
+Problema tem 17874 objetos e 450 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 1432.0 em 0 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 1466.0 em 0 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 1466.0, melhor = 0.0
+pivot = 1: solucao = 1466.0, melhor = 1466.0
+pivot = 2: solucao = 1617.0, melhor = 1466.0
+pivot = 3: solucao = 1492.0, melhor = 1617.0
+pivot = 4: solucao = 1533.0, melhor = 1617.0
+pivot = 5: solucao = 1462.0, melhor = 1617.0
+pivot = 6: solucao = 1753.0, melhor = 1617.0
+pivot = 7: solucao = 1466.0, melhor = 1753.0
+pivot = 8: solucao = 1621.0, melhor = 1753.0
+pivot = 9: solucao = 1466.0, melhor = 1753.0
+pivot = 10: solucao = 1517.0, melhor = 1753.0
+pivot = 11: solucao = 1591.0, melhor = 1753.0
+pivot = 12: solucao = 1466.0, melhor = 1753.0
+pivot = 13: solucao = 1442.0, melhor = 1753.0
+pivot = 14: solucao = 1571.0, melhor = 1753.0
+pivot = 15: solucao = 1480.0, melhor = 1753.0
+pivot = 16: solucao = 1605.0, melhor = 1753.0
+pivot = 17: solucao = 1821.0, melhor = 1753.0
+pivot = 18: solucao = 1462.0, melhor = 1821.0
+pivot = 19: solucao = 1580.0, melhor = 1821.0
+pivot = 20: solucao = 1528.0, melhor = 1821.0
+pivot = 21: solucao = 1480.0, melhor = 1821.0
+pivot = 22: solucao = 1467.0, melhor = 1821.0
+pivot = 23: solucao = 1482.0, melhor = 1821.0
+pivot = 24: solucao = 1811.0, melhor = 1821.0
+pivot = 25: solucao = 1416.0, melhor = 1821.0
+Melhor solucao encontrada = 1821.0 em 4 seg
+
+Executando heuristica gulosa estrela 1...
+pivot = 0: solucao = 1432.0, melhor = 0.0
+pivot = 1: solucao = 1689.0, melhor = 1432.0
+pivot = 2: solucao = 1503.0, melhor = 1689.0
+pivot = 3: solucao = 1561.0, melhor = 1689.0
+pivot = 4: solucao = 1712.0, melhor = 1689.0
+pivot = 5: solucao = 1570.0, melhor = 1712.0
+pivot = 6: solucao = 1619.0, melhor = 1712.0
+pivot = 7: solucao = 1653.0, melhor = 1712.0
+pivot = 8: solucao = 1524.0, melhor = 1712.0
+pivot = 9: solucao = 1580.0, melhor = 1712.0
+pivot = 10: solucao = 1571.0, melhor = 1712.0
+pivot = 11: solucao = 1734.0, melhor = 1712.0
+pivot = 12: solucao = 1518.0, melhor = 1734.0
+pivot = 13: solucao = 1505.0, melhor = 1734.0
+pivot = 14: solucao = 1428.0, melhor = 1734.0
+pivot = 15: solucao = 1432.0, melhor = 1734.0
+pivot = 16: solucao = 1448.0, melhor = 1734.0
+pivot = 17: solucao = 1577.0, melhor = 1734.0
+pivot = 18: solucao = 1585.0, melhor = 1734.0
+pivot = 19: solucao = 1666.0, melhor = 1734.0
+pivot = 20: solucao = 1428.0, melhor = 1734.0
+pivot = 21: solucao = 1580.0, melhor = 1734.0
+pivot = 22: solucao = 1578.0, melhor = 1734.0
+pivot = 23: solucao = 1660.0, melhor = 1734.0
+pivot = 24: solucao = 1655.0, melhor = 1734.0
+pivot = 25: solucao = 1512.0, melhor = 1734.0
+pivot = 26: solucao = 1593.0, melhor = 1734.0
+pivot = 27: solucao = 1572.0, melhor = 1734.0
+pivot = 28: solucao = 1476.0, melhor = 1734.0
+pivot = 29: solucao = 1630.0, melhor = 1734.0
+pivot = 30: solucao = 1432.0, melhor = 1734.0
+pivot = 31: solucao = 1537.0, melhor = 1734.0
+pivot = 32: solucao = 1618.0, melhor = 1734.0
+pivot = 33: solucao = 1725.0, melhor = 1734.0
+pivot = 34: solucao = 1633.0, melhor = 1734.0
+pivot = 35: solucao = 1663.0, melhor = 1734.0
+pivot = 36: solucao = 1509.0, melhor = 1734.0
+pivot = 37: solucao = 1571.0, melhor = 1734.0
+pivot = 38: solucao = 1666.0, melhor = 1734.0
+pivot = 39: solucao = 1743.0, melhor = 1734.0
+pivot = 40: solucao = 1699.0, melhor = 1743.0
+pivot = 41: solucao = 1575.0, melhor = 1743.0
+pivot = 42: solucao = 1686.0, melhor = 1743.0
+pivot = 43: solucao = 1561.0, melhor = 1743.0
+pivot = 44: solucao = 1619.0, melhor = 1743.0
+pivot = 45: solucao = 1689.0, melhor = 1743.0
+pivot = 46: solucao = 1529.0, melhor = 1743.0
+pivot = 47: solucao = 1503.0, melhor = 1743.0
+pivot = 48: solucao = 1582.0, melhor = 1743.0
+pivot = 49: solucao = 1432.0, melhor = 1743.0
+pivot = 50: solucao = 1689.0, melhor = 1743.0
+pivot = 51: solucao = 1496.0, melhor = 1743.0
+pivot = 52: solucao = 1580.0, melhor = 1743.0
+pivot = 53: solucao = 1467.0, melhor = 1743.0
+pivot = 54: solucao = 1531.0, melhor = 1743.0
+pivot = 55: solucao = 1463.0, melhor = 1743.0
+pivot = 56: solucao = 1500.0, melhor = 1743.0
+pivot = 57: solucao = 1532.0, melhor = 1743.0
+pivot = 58: solucao = 1654.0, melhor = 1743.0
+pivot = 59: solucao = 1566.0, melhor = 1743.0
+pivot = 60: solucao = 1524.0, melhor = 1743.0
+pivot = 61: solucao = 1432.0, melhor = 1743.0
+pivot = 62: solucao = 1586.0, melhor = 1743.0
+pivot = 63: solucao = 1609.0, melhor = 1743.0
+pivot = 64: solucao = 1511.0, melhor = 1743.0
+pivot = 65: solucao = 2011.0, melhor = 1743.0
+pivot = 66: solucao = 1572.0, melhor = 2011.0
+Melhor solucao encontrada = 2011.0 em 6 seg
+
+Problema resolvido em 10 segundos
+
+Arquivo 'saidas/heuristica/frb30-15-2-size.out' gravado!
+

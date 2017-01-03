@@ -1,0 +1,68 @@
+Lendo arquivo 'instancias/frb45-21-5-unitario.in'...
+
+Problema tem 58579 objetos e 945 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 33.0 em 1 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 33.0 em 1 seg
+
+Executando heuristica gulosa estrela 1...
+pivot = 0: solucao = 33.0, melhor = 0.0
+pivot = 1: solucao = 33.0, melhor = 33.0
+pivot = 2: solucao = 34.0, melhor = 33.0
+pivot = 3: solucao = 33.0, melhor = 34.0
+pivot = 4: solucao = 30.0, melhor = 34.0
+pivot = 5: solucao = 33.0, melhor = 34.0
+pivot = 6: solucao = 33.0, melhor = 34.0
+pivot = 7: solucao = 35.0, melhor = 34.0
+pivot = 8: solucao = 33.0, melhor = 35.0
+pivot = 9: solucao = 34.0, melhor = 35.0
+pivot = 10: solucao = 33.0, melhor = 35.0
+pivot = 11: solucao = 33.0, melhor = 35.0
+pivot = 12: solucao = 33.0, melhor = 35.0
+pivot = 13: solucao = 33.0, melhor = 35.0
+pivot = 14: solucao = 34.0, melhor = 35.0
+pivot = 15: solucao = 33.0, melhor = 35.0
+pivot = 16: solucao = 34.0, melhor = 35.0
+pivot = 17: solucao = 34.0, melhor = 35.0
+pivot = 18: solucao = 32.0, melhor = 35.0
+pivot = 19: solucao = 31.0, melhor = 35.0
+pivot = 20: solucao = 34.0, melhor = 35.0
+pivot = 21: solucao = 33.0, melhor = 35.0
+pivot = 22: solucao = 35.0, melhor = 35.0
+pivot = 23: solucao = 32.0, melhor = 35.0
+pivot = 24: solucao = 32.0, melhor = 35.0
+pivot = 25: solucao = 33.0, melhor = 35.0
+pivot = 26: solucao = 34.0, melhor = 35.0
+pivot = 27: solucao = 33.0, melhor = 35.0
+pivot = 28: solucao = 33.0, melhor = 35.0
+pivot = 29: solucao = 34.0, melhor = 35.0
+pivot = 30: solucao = 34.0, melhor = 35.0
+pivot = 31: solucao = 31.0, melhor = 35.0
+pivot = 32: solucao = 31.0, melhor = 35.0
+pivot = 33: solucao = 33.0, melhor = 35.0
+pivot = 34: solucao = 32.0, melhor = 35.0
+pivot = 35: solucao = 33.0, melhor = 35.0
+pivot = 36: solucao = 33.0, melhor = 35.0
+pivot = 37: solucao = 34.0, melhor = 35.0
+pivot = 38: solucao = 33.0, melhor = 35.0
+pivot = 39: solucao = 33.0, melhor = 35.0
+pivot = 40: solucao = 34.0, melhor = 35.0
+pivot = 41: solucao = 32.0, melhor = 35.0
+pivot = 42: solucao = 30.0, melhor = 35.0
+pivot = 43: solucao = 33.0, melhor = 35.0
+pivot = 44: solucao = 34.0, melhor = 35.0
+pivot = 45: solucao = 31.0, melhor = 35.0
+pivot = 46: solucao = 32.0, melhor = 35.0
+pivot = 47: solucao = 32.0, melhor = 35.0
+Melhor solucao encontrada = 35.0 em 58 seg
+
+RESOLUCAO INTERROMPIDA!!! TEMPO MAXIMO EXCEDIDO!!!
+Problema resolvido em 60 segundos
+
+Arquivo 'saidas/heuristica/frb45-21-5-unitario.out' gravado!
+

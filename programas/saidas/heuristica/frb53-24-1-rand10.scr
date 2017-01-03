@@ -1,0 +1,47 @@
+Lendo arquivo 'instancias/frb53-24-1-rand10.in'...
+
+Problema tem 94227 objetos e 1272 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 321.0 em 2 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 329.0 em 2 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 329.0, melhor = 0.0
+pivot = 1: solucao = 329.0, melhor = 329.0
+pivot = 2: solucao = 329.0, melhor = 329.0
+pivot = 3: solucao = 318.0, melhor = 329.0
+pivot = 4: solucao = 318.0, melhor = 329.0
+pivot = 5: solucao = 319.0, melhor = 329.0
+pivot = 6: solucao = 329.0, melhor = 329.0
+pivot = 7: solucao = 313.0, melhor = 329.0
+pivot = 8: solucao = 321.0, melhor = 329.0
+pivot = 9: solucao = 329.0, melhor = 329.0
+pivot = 10: solucao = 330.0, melhor = 329.0
+pivot = 11: solucao = 329.0, melhor = 330.0
+pivot = 12: solucao = 329.0, melhor = 330.0
+pivot = 13: solucao = 329.0, melhor = 330.0
+pivot = 14: solucao = 312.0, melhor = 330.0
+pivot = 15: solucao = 324.0, melhor = 330.0
+pivot = 16: solucao = 334.0, melhor = 330.0
+pivot = 17: solucao = 342.0, melhor = 334.0
+pivot = 18: solucao = 321.0, melhor = 342.0
+pivot = 19: solucao = 283.0, melhor = 342.0
+pivot = 20: solucao = 336.0, melhor = 342.0
+pivot = 21: solucao = 330.0, melhor = 342.0
+pivot = 22: solucao = 320.0, melhor = 342.0
+pivot = 23: solucao = 312.0, melhor = 342.0
+pivot = 24: solucao = 329.0, melhor = 342.0
+pivot = 25: solucao = 334.0, melhor = 342.0
+pivot = 26: solucao = 333.0, melhor = 342.0
+Melhor solucao encontrada = 342.0 em 57 seg
+
+RESOLUCAO INTERROMPIDA!!! TEMPO MAXIMO EXCEDIDO!!!
+Problema resolvido em 61 segundos
+
+Arquivo 'saidas/heuristica/frb53-24-1-rand10.out' gravado!
+

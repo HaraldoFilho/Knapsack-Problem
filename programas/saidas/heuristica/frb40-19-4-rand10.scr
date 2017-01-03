@@ -1,0 +1,133 @@
+Lendo arquivo 'instancias/frb40-19-4-rand10.in'...
+
+Problema tem 41605 objetos e 760 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 220.0 em 0 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 229.0 em 1 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 229.0, melhor = 0.0
+pivot = 1: solucao = 229.0, melhor = 229.0
+pivot = 2: solucao = 229.0, melhor = 229.0
+pivot = 3: solucao = 229.0, melhor = 229.0
+pivot = 4: solucao = 244.0, melhor = 229.0
+pivot = 5: solucao = 246.0, melhor = 244.0
+pivot = 6: solucao = 254.0, melhor = 246.0
+pivot = 7: solucao = 242.0, melhor = 254.0
+pivot = 8: solucao = 229.0, melhor = 254.0
+pivot = 9: solucao = 230.0, melhor = 254.0
+pivot = 10: solucao = 224.0, melhor = 254.0
+pivot = 11: solucao = 229.0, melhor = 254.0
+pivot = 12: solucao = 208.0, melhor = 254.0
+pivot = 13: solucao = 229.0, melhor = 254.0
+pivot = 14: solucao = 229.0, melhor = 254.0
+pivot = 15: solucao = 230.0, melhor = 254.0
+pivot = 16: solucao = 224.0, melhor = 254.0
+pivot = 17: solucao = 229.0, melhor = 254.0
+pivot = 18: solucao = 227.0, melhor = 254.0
+pivot = 19: solucao = 244.0, melhor = 254.0
+pivot = 20: solucao = 224.0, melhor = 254.0
+pivot = 21: solucao = 232.0, melhor = 254.0
+pivot = 22: solucao = 227.0, melhor = 254.0
+pivot = 23: solucao = 244.0, melhor = 254.0
+pivot = 24: solucao = 227.0, melhor = 254.0
+pivot = 25: solucao = 221.0, melhor = 254.0
+pivot = 26: solucao = 225.0, melhor = 254.0
+pivot = 27: solucao = 224.0, melhor = 254.0
+pivot = 28: solucao = 227.0, melhor = 254.0
+pivot = 29: solucao = 234.0, melhor = 254.0
+pivot = 30: solucao = 234.0, melhor = 254.0
+pivot = 31: solucao = 221.0, melhor = 254.0
+pivot = 32: solucao = 208.0, melhor = 254.0
+pivot = 33: solucao = 233.0, melhor = 254.0
+pivot = 34: solucao = 233.0, melhor = 254.0
+pivot = 35: solucao = 229.0, melhor = 254.0
+pivot = 36: solucao = 230.0, melhor = 254.0
+pivot = 37: solucao = 233.0, melhor = 254.0
+pivot = 38: solucao = 226.0, melhor = 254.0
+pivot = 39: solucao = 229.0, melhor = 254.0
+pivot = 40: solucao = 229.0, melhor = 254.0
+pivot = 41: solucao = 249.0, melhor = 254.0
+pivot = 42: solucao = 208.0, melhor = 254.0
+pivot = 43: solucao = 235.0, melhor = 254.0
+pivot = 44: solucao = 224.0, melhor = 254.0
+pivot = 45: solucao = 229.0, melhor = 254.0
+pivot = 46: solucao = 230.0, melhor = 254.0
+pivot = 47: solucao = 222.0, melhor = 254.0
+pivot = 48: solucao = 246.0, melhor = 254.0
+pivot = 49: solucao = 240.0, melhor = 254.0
+pivot = 50: solucao = 230.0, melhor = 254.0
+pivot = 51: solucao = 229.0, melhor = 254.0
+pivot = 52: solucao = 229.0, melhor = 254.0
+pivot = 53: solucao = 235.0, melhor = 254.0
+pivot = 54: solucao = 233.0, melhor = 254.0
+pivot = 55: solucao = 230.0, melhor = 254.0
+pivot = 56: solucao = 230.0, melhor = 254.0
+pivot = 57: solucao = 237.0, melhor = 254.0
+pivot = 58: solucao = 244.0, melhor = 254.0
+pivot = 59: solucao = 229.0, melhor = 254.0
+pivot = 60: solucao = 229.0, melhor = 254.0
+pivot = 61: solucao = 246.0, melhor = 254.0
+pivot = 62: solucao = 229.0, melhor = 254.0
+pivot = 63: solucao = 224.0, melhor = 254.0
+pivot = 64: solucao = 235.0, melhor = 254.0
+pivot = 65: solucao = 248.0, melhor = 254.0
+pivot = 66: solucao = 230.0, melhor = 254.0
+pivot = 67: solucao = 211.0, melhor = 254.0
+pivot = 68: solucao = 224.0, melhor = 254.0
+pivot = 69: solucao = 229.0, melhor = 254.0
+pivot = 70: solucao = 239.0, melhor = 254.0
+pivot = 71: solucao = 229.0, melhor = 254.0
+pivot = 72: solucao = 233.0, melhor = 254.0
+pivot = 73: solucao = 233.0, melhor = 254.0
+pivot = 74: solucao = 226.0, melhor = 254.0
+pivot = 75: solucao = 229.0, melhor = 254.0
+pivot = 76: solucao = 224.0, melhor = 254.0
+pivot = 77: solucao = 232.0, melhor = 254.0
+pivot = 78: solucao = 224.0, melhor = 254.0
+pivot = 79: solucao = 229.0, melhor = 254.0
+pivot = 80: solucao = 233.0, melhor = 254.0
+pivot = 81: solucao = 229.0, melhor = 254.0
+pivot = 82: solucao = 226.0, melhor = 254.0
+pivot = 83: solucao = 229.0, melhor = 254.0
+pivot = 84: solucao = 231.0, melhor = 254.0
+pivot = 85: solucao = 210.0, melhor = 254.0
+pivot = 86: solucao = 224.0, melhor = 254.0
+pivot = 87: solucao = 236.0, melhor = 254.0
+pivot = 88: solucao = 210.0, melhor = 254.0
+pivot = 89: solucao = 227.0, melhor = 254.0
+pivot = 90: solucao = 213.0, melhor = 254.0
+pivot = 91: solucao = 224.0, melhor = 254.0
+pivot = 92: solucao = 247.0, melhor = 254.0
+pivot = 93: solucao = 220.0, melhor = 254.0
+pivot = 94: solucao = 244.0, melhor = 254.0
+pivot = 95: solucao = 224.0, melhor = 254.0
+pivot = 96: solucao = 230.0, melhor = 254.0
+pivot = 97: solucao = 235.0, melhor = 254.0
+pivot = 98: solucao = 223.0, melhor = 254.0
+pivot = 99: solucao = 232.0, melhor = 254.0
+pivot = 100: solucao = 237.0, melhor = 254.0
+pivot = 101: solucao = 229.0, melhor = 254.0
+pivot = 102: solucao = 234.0, melhor = 254.0
+pivot = 103: solucao = 241.0, melhor = 254.0
+pivot = 104: solucao = 227.0, melhor = 254.0
+pivot = 105: solucao = 220.0, melhor = 254.0
+pivot = 106: solucao = 231.0, melhor = 254.0
+pivot = 107: solucao = 227.0, melhor = 254.0
+pivot = 108: solucao = 215.0, melhor = 254.0
+pivot = 109: solucao = 234.0, melhor = 254.0
+pivot = 110: solucao = 217.0, melhor = 254.0
+pivot = 111: solucao = 233.0, melhor = 254.0
+pivot = 112: solucao = 244.0, melhor = 254.0
+Melhor solucao encontrada = 254.0 em 59 seg
+
+RESOLUCAO INTERROMPIDA!!! TEMPO MAXIMO EXCEDIDO!!!
+Problema resolvido em 60 segundos
+
+Arquivo 'saidas/heuristica/frb40-19-4-rand10.out' gravado!
+

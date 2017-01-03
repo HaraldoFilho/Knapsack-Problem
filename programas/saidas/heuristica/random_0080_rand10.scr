@@ -1,0 +1,29 @@
+Lendo arquivo 'instancias/random_0080_rand10.in'...
+
+Problema tem 80 objetos e 40 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 16.0 em 0 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 10.0 em 0 seg
+
+Executando heuristica gulosa estrela 1...
+pivot = 0: solucao = 16.0, melhor = 0.0
+pivot = 1: solucao = 16.0, melhor = 16.0
+pivot = 2: solucao = 16.0, melhor = 16.0
+pivot = 3: solucao = 12.0, melhor = 16.0
+Melhor solucao encontrada = 16.0 em 0 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 10.0, melhor = 0.0
+pivot = 1: solucao = 17.0, melhor = 10.0
+pivot = 2: solucao = 13.0, melhor = 17.0
+Melhor solucao encontrada = 17.0 em 0 seg
+
+Problema resolvido em 0 segundos
+
+Arquivo 'saidas/heuristica/random_0080_rand10.out' gravado!
+

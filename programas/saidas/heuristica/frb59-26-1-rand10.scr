@@ -1,0 +1,36 @@
+Lendo arquivo 'instancias/frb59-26-1-rand10.in'...
+
+Problema tem 126555 objetos e 1534 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 324.0 em 5 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 349.0 em 3 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 349.0, melhor = 0.0
+pivot = 1: solucao = 325.0, melhor = 349.0
+pivot = 2: solucao = 349.0, melhor = 349.0
+pivot = 3: solucao = 349.0, melhor = 349.0
+pivot = 4: solucao = 333.0, melhor = 349.0
+pivot = 5: solucao = 325.0, melhor = 349.0
+pivot = 6: solucao = 325.0, melhor = 349.0
+pivot = 7: solucao = 349.0, melhor = 349.0
+pivot = 8: solucao = 359.0, melhor = 349.0
+pivot = 9: solucao = 382.0, melhor = 359.0
+pivot = 10: solucao = 335.0, melhor = 382.0
+pivot = 11: solucao = 335.0, melhor = 382.0
+pivot = 12: solucao = 333.0, melhor = 382.0
+pivot = 13: solucao = 349.0, melhor = 382.0
+pivot = 14: solucao = 354.0, melhor = 382.0
+pivot = 15: solucao = 325.0, melhor = 382.0
+Melhor solucao encontrada = 382.0 em 54 seg
+
+RESOLUCAO INTERROMPIDA!!! TEMPO MAXIMO EXCEDIDO!!!
+Problema resolvido em 62 segundos
+
+Arquivo 'saidas/heuristica/frb59-26-1-rand10.out' gravado!
+

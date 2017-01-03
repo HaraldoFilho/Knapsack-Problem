@@ -1,0 +1,112 @@
+Lendo arquivo 'instancias/frb40-19-3-size.in'...
+
+Problema tem 41095 objetos e 760 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 3112.0 em 0 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 3179.0 em 1 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 3179.0, melhor = 0.0
+pivot = 1: solucao = 3112.0, melhor = 3179.0
+pivot = 2: solucao = 2956.0, melhor = 3179.0
+pivot = 3: solucao = 3179.0, melhor = 3179.0
+pivot = 4: solucao = 2790.0, melhor = 3179.0
+pivot = 5: solucao = 3008.0, melhor = 3179.0
+pivot = 6: solucao = 3137.0, melhor = 3179.0
+pivot = 7: solucao = 2699.0, melhor = 3179.0
+pivot = 8: solucao = 3179.0, melhor = 3179.0
+pivot = 9: solucao = 3042.0, melhor = 3179.0
+pivot = 10: solucao = 3018.0, melhor = 3179.0
+pivot = 11: solucao = 2894.0, melhor = 3179.0
+pivot = 12: solucao = 3218.0, melhor = 3179.0
+pivot = 13: solucao = 2790.0, melhor = 3218.0
+pivot = 14: solucao = 2783.0, melhor = 3218.0
+pivot = 15: solucao = 2874.0, melhor = 3218.0
+pivot = 16: solucao = 2781.0, melhor = 3218.0
+pivot = 17: solucao = 3071.0, melhor = 3218.0
+pivot = 18: solucao = 3014.0, melhor = 3218.0
+pivot = 19: solucao = 2894.0, melhor = 3218.0
+pivot = 20: solucao = 3271.0, melhor = 3218.0
+pivot = 21: solucao = 3015.0, melhor = 3271.0
+pivot = 22: solucao = 2827.0, melhor = 3271.0
+pivot = 23: solucao = 3111.0, melhor = 3271.0
+pivot = 24: solucao = 3049.0, melhor = 3271.0
+pivot = 25: solucao = 3063.0, melhor = 3271.0
+pivot = 26: solucao = 3215.0, melhor = 3271.0
+pivot = 27: solucao = 3112.0, melhor = 3271.0
+pivot = 28: solucao = 3292.0, melhor = 3271.0
+pivot = 29: solucao = 2820.0, melhor = 3292.0
+pivot = 30: solucao = 3042.0, melhor = 3292.0
+pivot = 31: solucao = 3179.0, melhor = 3292.0
+pivot = 32: solucao = 2864.0, melhor = 3292.0
+pivot = 33: solucao = 3179.0, melhor = 3292.0
+pivot = 34: solucao = 2865.0, melhor = 3292.0
+pivot = 35: solucao = 2790.0, melhor = 3292.0
+pivot = 36: solucao = 3385.0, melhor = 3292.0
+pivot = 37: solucao = 3179.0, melhor = 3385.0
+pivot = 38: solucao = 2913.0, melhor = 3385.0
+pivot = 39: solucao = 2959.0, melhor = 3385.0
+pivot = 40: solucao = 3153.0, melhor = 3385.0
+pivot = 41: solucao = 3043.0, melhor = 3385.0
+pivot = 42: solucao = 3179.0, melhor = 3385.0
+pivot = 43: solucao = 3304.0, melhor = 3385.0
+pivot = 44: solucao = 3179.0, melhor = 3385.0
+pivot = 45: solucao = 3004.0, melhor = 3385.0
+pivot = 46: solucao = 2929.0, melhor = 3385.0
+pivot = 47: solucao = 3043.0, melhor = 3385.0
+pivot = 48: solucao = 3116.0, melhor = 3385.0
+pivot = 49: solucao = 3030.0, melhor = 3385.0
+pivot = 50: solucao = 3316.0, melhor = 3385.0
+pivot = 51: solucao = 3124.0, melhor = 3385.0
+pivot = 52: solucao = 2863.0, melhor = 3385.0
+pivot = 53: solucao = 3008.0, melhor = 3385.0
+pivot = 54: solucao = 3309.0, melhor = 3385.0
+pivot = 55: solucao = 3017.0, melhor = 3385.0
+pivot = 56: solucao = 2709.0, melhor = 3385.0
+pivot = 57: solucao = 2790.0, melhor = 3385.0
+pivot = 58: solucao = 2819.0, melhor = 3385.0
+pivot = 59: solucao = 3005.0, melhor = 3385.0
+pivot = 60: solucao = 2878.0, melhor = 3385.0
+pivot = 61: solucao = 3166.0, melhor = 3385.0
+pivot = 62: solucao = 3008.0, melhor = 3385.0
+pivot = 63: solucao = 3040.0, melhor = 3385.0
+pivot = 64: solucao = 3125.0, melhor = 3385.0
+pivot = 65: solucao = 3114.0, melhor = 3385.0
+pivot = 66: solucao = 2794.0, melhor = 3385.0
+pivot = 67: solucao = 3135.0, melhor = 3385.0
+pivot = 68: solucao = 3042.0, melhor = 3385.0
+pivot = 69: solucao = 3150.0, melhor = 3385.0
+pivot = 70: solucao = 3179.0, melhor = 3385.0
+pivot = 71: solucao = 2844.0, melhor = 3385.0
+pivot = 72: solucao = 3096.0, melhor = 3385.0
+pivot = 73: solucao = 3126.0, melhor = 3385.0
+pivot = 74: solucao = 2874.0, melhor = 3385.0
+pivot = 75: solucao = 2952.0, melhor = 3385.0
+pivot = 76: solucao = 3103.0, melhor = 3385.0
+pivot = 77: solucao = 3179.0, melhor = 3385.0
+pivot = 78: solucao = 2777.0, melhor = 3385.0
+pivot = 79: solucao = 2889.0, melhor = 3385.0
+pivot = 80: solucao = 3221.0, melhor = 3385.0
+pivot = 81: solucao = 3179.0, melhor = 3385.0
+pivot = 82: solucao = 3072.0, melhor = 3385.0
+pivot = 83: solucao = 3218.0, melhor = 3385.0
+pivot = 84: solucao = 3073.0, melhor = 3385.0
+pivot = 85: solucao = 3092.0, melhor = 3385.0
+pivot = 86: solucao = 2748.0, melhor = 3385.0
+pivot = 87: solucao = 3072.0, melhor = 3385.0
+pivot = 88: solucao = 2811.0, melhor = 3385.0
+pivot = 89: solucao = 3025.0, melhor = 3385.0
+pivot = 90: solucao = 3010.0, melhor = 3385.0
+pivot = 91: solucao = 2655.0, melhor = 3385.0
+Melhor solucao encontrada = 3385.0 em 59 seg
+
+RESOLUCAO INTERROMPIDA!!! TEMPO MAXIMO EXCEDIDO!!!
+Problema resolvido em 60 segundos
+
+Arquivo 'saidas/heuristica/frb40-19-3-size.out' gravado!
+

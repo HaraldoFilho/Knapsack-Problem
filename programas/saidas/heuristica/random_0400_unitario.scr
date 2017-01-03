@@ -1,0 +1,41 @@
+Lendo arquivo 'instancias/random_0400_unitario.in'...
+
+Problema tem 400 objetos e 100 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 2.0 em 0 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 1.0 em 0 seg
+
+Executando heuristica gulosa estrela 1...
+pivot = 0: solucao = 2.0, melhor = 0.0
+pivot = 1: solucao = 2.0, melhor = 2.0
+pivot = 2: solucao = 2.0, melhor = 2.0
+pivot = 3: solucao = 2.0, melhor = 2.0
+pivot = 4: solucao = 2.0, melhor = 2.0
+pivot = 5: solucao = 2.0, melhor = 2.0
+pivot = 6: solucao = 2.0, melhor = 2.0
+pivot = 7: solucao = 1.0, melhor = 2.0
+Melhor solucao encontrada = 2.0 em 0 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 1.0, melhor = 0.0
+pivot = 1: solucao = 1.0, melhor = 1.0
+pivot = 2: solucao = 1.0, melhor = 1.0
+pivot = 3: solucao = 1.0, melhor = 1.0
+pivot = 4: solucao = 1.0, melhor = 1.0
+pivot = 5: solucao = 1.0, melhor = 1.0
+pivot = 6: solucao = 1.0, melhor = 1.0
+pivot = 7: solucao = 1.0, melhor = 1.0
+pivot = 8: solucao = 1.0, melhor = 1.0
+pivot = 9: solucao = 2.0, melhor = 1.0
+pivot = 10: solucao = 1.0, melhor = 2.0
+Melhor solucao encontrada = 2.0 em 0 seg
+
+Problema resolvido em 0 segundos
+
+Arquivo 'saidas/heuristica/random_0400_unitario.out' gravado!
+

@@ -1,0 +1,118 @@
+Lendo arquivo 'instancias/frb35-17-1-size.in'...
+
+Problema tem 27856 objetos e 595 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 2300.0 em 0 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 2169.0 em 0 seg
+
+Executando heuristica gulosa estrela 1...
+pivot = 0: solucao = 2300.0, melhor = 0.0
+pivot = 1: solucao = 2133.0, melhor = 2300.0
+pivot = 2: solucao = 2053.0, melhor = 2300.0
+pivot = 3: solucao = 2070.0, melhor = 2300.0
+pivot = 4: solucao = 2175.0, melhor = 2300.0
+pivot = 5: solucao = 2224.0, melhor = 2300.0
+pivot = 6: solucao = 2067.0, melhor = 2300.0
+pivot = 7: solucao = 2080.0, melhor = 2300.0
+pivot = 8: solucao = 2288.0, melhor = 2300.0
+pivot = 9: solucao = 1912.0, melhor = 2300.0
+pivot = 10: solucao = 2178.0, melhor = 2300.0
+pivot = 11: solucao = 2286.0, melhor = 2300.0
+pivot = 12: solucao = 2073.0, melhor = 2300.0
+pivot = 13: solucao = 2353.0, melhor = 2300.0
+pivot = 14: solucao = 1977.0, melhor = 2353.0
+pivot = 15: solucao = 2044.0, melhor = 2353.0
+pivot = 16: solucao = 2062.0, melhor = 2353.0
+pivot = 17: solucao = 2300.0, melhor = 2353.0
+pivot = 18: solucao = 2135.0, melhor = 2353.0
+pivot = 19: solucao = 2204.0, melhor = 2353.0
+pivot = 20: solucao = 2297.0, melhor = 2353.0
+pivot = 21: solucao = 2116.0, melhor = 2353.0
+pivot = 22: solucao = 2334.0, melhor = 2353.0
+pivot = 23: solucao = 2324.0, melhor = 2353.0
+pivot = 24: solucao = 2225.0, melhor = 2353.0
+pivot = 25: solucao = 2137.0, melhor = 2353.0
+pivot = 26: solucao = 2049.0, melhor = 2353.0
+pivot = 27: solucao = 2151.0, melhor = 2353.0
+pivot = 28: solucao = 2080.0, melhor = 2353.0
+pivot = 29: solucao = 1949.0, melhor = 2353.0
+pivot = 30: solucao = 2324.0, melhor = 2353.0
+pivot = 31: solucao = 2160.0, melhor = 2353.0
+pivot = 32: solucao = 2119.0, melhor = 2353.0
+pivot = 33: solucao = 2227.0, melhor = 2353.0
+pivot = 34: solucao = 2133.0, melhor = 2353.0
+pivot = 35: solucao = 2003.0, melhor = 2353.0
+pivot = 36: solucao = 2300.0, melhor = 2353.0
+pivot = 37: solucao = 2297.0, melhor = 2353.0
+pivot = 38: solucao = 2335.0, melhor = 2353.0
+pivot = 39: solucao = 2016.0, melhor = 2353.0
+pivot = 40: solucao = 2194.0, melhor = 2353.0
+pivot = 41: solucao = 2115.0, melhor = 2353.0
+pivot = 42: solucao = 2198.0, melhor = 2353.0
+pivot = 43: solucao = 2394.0, melhor = 2353.0
+pivot = 44: solucao = 2052.0, melhor = 2394.0
+pivot = 45: solucao = 2391.0, melhor = 2394.0
+pivot = 46: solucao = 2515.0, melhor = 2394.0
+pivot = 47: solucao = 2114.0, melhor = 2515.0
+pivot = 48: solucao = 2339.0, melhor = 2515.0
+pivot = 49: solucao = 2134.0, melhor = 2515.0
+pivot = 50: solucao = 2227.0, melhor = 2515.0
+pivot = 51: solucao = 2300.0, melhor = 2515.0
+pivot = 52: solucao = 2095.0, melhor = 2515.0
+pivot = 53: solucao = 2389.0, melhor = 2515.0
+pivot = 54: solucao = 2133.0, melhor = 2515.0
+pivot = 55: solucao = 2396.0, melhor = 2515.0
+pivot = 56: solucao = 2317.0, melhor = 2515.0
+pivot = 57: solucao = 2158.0, melhor = 2515.0
+pivot = 58: solucao = 2150.0, melhor = 2515.0
+pivot = 59: solucao = 2061.0, melhor = 2515.0
+pivot = 60: solucao = 2391.0, melhor = 2515.0
+pivot = 61: solucao = 2074.0, melhor = 2515.0
+pivot = 62: solucao = 2307.0, melhor = 2515.0
+pivot = 63: solucao = 2151.0, melhor = 2515.0
+pivot = 64: solucao = 2058.0, melhor = 2515.0
+pivot = 65: solucao = 2270.0, melhor = 2515.0
+pivot = 66: solucao = 2248.0, melhor = 2515.0
+pivot = 67: solucao = 2267.0, melhor = 2515.0
+pivot = 68: solucao = 2300.0, melhor = 2515.0
+pivot = 69: solucao = 2305.0, melhor = 2515.0
+pivot = 70: solucao = 2194.0, melhor = 2515.0
+pivot = 71: solucao = 2200.0, melhor = 2515.0
+pivot = 72: solucao = 2105.0, melhor = 2515.0
+pivot = 73: solucao = 2181.0, melhor = 2515.0
+pivot = 74: solucao = 2227.0, melhor = 2515.0
+pivot = 75: solucao = 2288.0, melhor = 2515.0
+pivot = 76: solucao = 2314.0, melhor = 2515.0
+pivot = 77: solucao = 2002.0, melhor = 2515.0
+Melhor solucao encontrada = 2515.0 em 17 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 2169.0, melhor = 0.0
+pivot = 1: solucao = 2502.0, melhor = 2169.0
+pivot = 2: solucao = 2169.0, melhor = 2502.0
+pivot = 3: solucao = 2502.0, melhor = 2502.0
+pivot = 4: solucao = 2169.0, melhor = 2502.0
+pivot = 5: solucao = 2169.0, melhor = 2502.0
+pivot = 6: solucao = 2280.0, melhor = 2502.0
+pivot = 7: solucao = 2502.0, melhor = 2502.0
+pivot = 8: solucao = 2468.0, melhor = 2502.0
+pivot = 9: solucao = 2216.0, melhor = 2502.0
+pivot = 10: solucao = 2313.0, melhor = 2502.0
+pivot = 11: solucao = 2454.0, melhor = 2502.0
+pivot = 12: solucao = 2331.0, melhor = 2502.0
+pivot = 13: solucao = 2266.0, melhor = 2502.0
+pivot = 14: solucao = 2348.0, melhor = 2502.0
+pivot = 15: solucao = 2154.0, melhor = 2502.0
+pivot = 16: solucao = 2153.0, melhor = 2502.0
+pivot = 17: solucao = 1956.0, melhor = 2502.0
+Melhor solucao encontrada = 2502.0 em 6 seg
+
+Problema resolvido em 23 segundos
+
+Arquivo 'saidas/heuristica/frb35-17-1-size.out' gravado!
+

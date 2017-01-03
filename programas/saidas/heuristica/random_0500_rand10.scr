@@ -1,0 +1,36 @@
+Lendo arquivo 'instancias/random_0500_rand10.in'...
+
+Problema tem 500 objetos e 110 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 29.0 em 0 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 27.0 em 0 seg
+
+Executando heuristica gulosa estrela 1...
+pivot = 0: solucao = 29.0, melhor = 0.0
+pivot = 1: solucao = 29.0, melhor = 29.0
+pivot = 2: solucao = 29.0, melhor = 29.0
+pivot = 3: solucao = 28.0, melhor = 29.0
+pivot = 4: solucao = 29.0, melhor = 29.0
+pivot = 5: solucao = 27.0, melhor = 29.0
+pivot = 6: solucao = 26.0, melhor = 29.0
+pivot = 7: solucao = 25.0, melhor = 29.0
+pivot = 8: solucao = 26.0, melhor = 29.0
+pivot = 9: solucao = 27.0, melhor = 29.0
+pivot = 10: solucao = 24.0, melhor = 29.0
+pivot = 11: solucao = 21.0, melhor = 29.0
+Melhor solucao encontrada = 29.0 em 0 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 27.0, melhor = 0.0
+pivot = 1: solucao = 10.0, melhor = 27.0
+Melhor solucao encontrada = 27.0 em 0 seg
+
+Problema resolvido em 0 segundos
+
+Arquivo 'saidas/heuristica/random_0500_rand10.out' gravado!
+

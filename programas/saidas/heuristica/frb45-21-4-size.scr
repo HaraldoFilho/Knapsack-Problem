@@ -1,0 +1,71 @@
+Lendo arquivo 'instancias/frb45-21-4-size.in'...
+
+Problema tem 58549 objetos e 945 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 3654.0 em 1 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 4182.0 em 1 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 4182.0, melhor = 0.0
+pivot = 1: solucao = 3828.0, melhor = 4182.0
+pivot = 2: solucao = 4253.0, melhor = 4182.0
+pivot = 3: solucao = 4136.0, melhor = 4253.0
+pivot = 4: solucao = 4221.0, melhor = 4253.0
+pivot = 5: solucao = 3753.0, melhor = 4253.0
+pivot = 6: solucao = 3779.0, melhor = 4253.0
+pivot = 7: solucao = 3801.0, melhor = 4253.0
+pivot = 8: solucao = 4011.0, melhor = 4253.0
+pivot = 9: solucao = 3962.0, melhor = 4253.0
+pivot = 10: solucao = 3830.0, melhor = 4253.0
+pivot = 11: solucao = 4182.0, melhor = 4253.0
+pivot = 12: solucao = 3682.0, melhor = 4253.0
+pivot = 13: solucao = 3984.0, melhor = 4253.0
+pivot = 14: solucao = 4251.0, melhor = 4253.0
+pivot = 15: solucao = 3978.0, melhor = 4253.0
+pivot = 16: solucao = 4276.0, melhor = 4253.0
+pivot = 17: solucao = 4182.0, melhor = 4276.0
+pivot = 18: solucao = 3755.0, melhor = 4276.0
+pivot = 19: solucao = 3923.0, melhor = 4276.0
+pivot = 20: solucao = 3868.0, melhor = 4276.0
+pivot = 21: solucao = 3782.0, melhor = 4276.0
+pivot = 22: solucao = 3820.0, melhor = 4276.0
+pivot = 23: solucao = 3918.0, melhor = 4276.0
+pivot = 24: solucao = 3920.0, melhor = 4276.0
+pivot = 25: solucao = 4100.0, melhor = 4276.0
+pivot = 26: solucao = 4054.0, melhor = 4276.0
+pivot = 27: solucao = 3914.0, melhor = 4276.0
+pivot = 28: solucao = 4322.0, melhor = 4276.0
+pivot = 29: solucao = 3681.0, melhor = 4322.0
+pivot = 30: solucao = 4182.0, melhor = 4322.0
+pivot = 31: solucao = 3867.0, melhor = 4322.0
+pivot = 32: solucao = 4269.0, melhor = 4322.0
+pivot = 33: solucao = 4224.0, melhor = 4322.0
+pivot = 34: solucao = 4253.0, melhor = 4322.0
+pivot = 35: solucao = 3524.0, melhor = 4322.0
+pivot = 36: solucao = 4182.0, melhor = 4322.0
+pivot = 37: solucao = 4269.0, melhor = 4322.0
+pivot = 38: solucao = 3838.0, melhor = 4322.0
+pivot = 39: solucao = 4322.0, melhor = 4322.0
+pivot = 40: solucao = 4136.0, melhor = 4322.0
+pivot = 41: solucao = 3694.0, melhor = 4322.0
+pivot = 42: solucao = 4211.0, melhor = 4322.0
+pivot = 43: solucao = 4182.0, melhor = 4322.0
+pivot = 44: solucao = 4184.0, melhor = 4322.0
+pivot = 45: solucao = 4232.0, melhor = 4322.0
+pivot = 46: solucao = 4182.0, melhor = 4322.0
+pivot = 47: solucao = 3795.0, melhor = 4322.0
+pivot = 48: solucao = 4011.0, melhor = 4322.0
+pivot = 49: solucao = 3828.0, melhor = 4322.0
+pivot = 50: solucao = 3981.0, melhor = 4322.0
+Melhor solucao encontrada = 4322.0 em 58 seg
+
+RESOLUCAO INTERROMPIDA!!! TEMPO MAXIMO EXCEDIDO!!!
+Problema resolvido em 60 segundos
+
+Arquivo 'saidas/heuristica/frb45-21-4-size.out' gravado!
+

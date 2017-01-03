@@ -1,0 +1,38 @@
+Lendo arquivo 'instancias/frb53-24-3-size.in'...
+
+Problema tem 94127 objetos e 1272 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 5165.0 em 2 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 5342.0 em 3 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 5342.0, melhor = 0.0
+pivot = 1: solucao = 5342.0, melhor = 5342.0
+pivot = 2: solucao = 5455.0, melhor = 5342.0
+pivot = 3: solucao = 5357.0, melhor = 5455.0
+pivot = 4: solucao = 5504.0, melhor = 5455.0
+pivot = 5: solucao = 5692.0, melhor = 5504.0
+pivot = 6: solucao = 5617.0, melhor = 5692.0
+pivot = 7: solucao = 5474.0, melhor = 5692.0
+pivot = 8: solucao = 5453.0, melhor = 5692.0
+pivot = 9: solucao = 5647.0, melhor = 5692.0
+pivot = 10: solucao = 5466.0, melhor = 5692.0
+pivot = 11: solucao = 5758.0, melhor = 5692.0
+pivot = 12: solucao = 5342.0, melhor = 5758.0
+pivot = 13: solucao = 5762.0, melhor = 5758.0
+pivot = 14: solucao = 5578.0, melhor = 5762.0
+pivot = 15: solucao = 5352.0, melhor = 5762.0
+pivot = 16: solucao = 5463.0, melhor = 5762.0
+pivot = 17: solucao = 5553.0, melhor = 5762.0
+Melhor solucao encontrada = 5762.0 em 55 seg
+
+RESOLUCAO INTERROMPIDA!!! TEMPO MAXIMO EXCEDIDO!!!
+Problema resolvido em 60 segundos
+
+Arquivo 'saidas/heuristica/frb53-24-3-size.out' gravado!
+

@@ -1,0 +1,23 @@
+Lendo arquivo 'instancias/random_0300_size.in'...
+
+Problema tem 300 objetos e 85 compradores
+
+Resolvendo o problema por Programacao Linear Inteira...
+Iniciando o resolvedor GLPK...
+Executing GLPK simplex algorithm...
+|     0: obj =   8.275000000e+03  infeas =  0.000e+00 (0)
+|   253: obj =   2.558304147e+02  infeas =  0.000e+00 (0)
+Optimal solution found: 255.83
+Executing GLPK integer optimizer...
++   253: mip =     not found yet <=              +inf        (1; 0)
+Executing heuristics to find an integer feasible solution...
+Solution found by heuristic: 195
++  2710: mip =   1.950000000e+02 <=     tree is empty   0.0% (0; 81)
+Optimal solution found: 195.0
+
+SOLUCAO OTIMA INTEIRA ENCONTRADA!!!
+
+Problema resolvido em 0 segundos
+
+Arquivo 'saidas/exato/random_0300_size.out' gravado!
+

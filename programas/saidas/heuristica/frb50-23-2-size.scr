@@ -1,0 +1,64 @@
+Lendo arquivo 'instancias/frb50-23-2-size.in'...
+
+Problema tem 80851 objetos e 1150 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 4722.0 em 1 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 4524.0 em 2 seg
+
+Executando heuristica gulosa estrela 1...
+pivot = 0: solucao = 4722.0, melhor = 0.0
+pivot = 1: solucao = 4924.0, melhor = 4722.0
+pivot = 2: solucao = 4843.0, melhor = 4924.0
+pivot = 3: solucao = 4990.0, melhor = 4924.0
+pivot = 4: solucao = 5234.0, melhor = 4990.0
+pivot = 5: solucao = 4832.0, melhor = 5234.0
+pivot = 6: solucao = 5146.0, melhor = 5234.0
+pivot = 7: solucao = 4687.0, melhor = 5234.0
+pivot = 8: solucao = 5015.0, melhor = 5234.0
+pivot = 9: solucao = 5028.0, melhor = 5234.0
+pivot = 10: solucao = 5115.0, melhor = 5234.0
+pivot = 11: solucao = 5023.0, melhor = 5234.0
+pivot = 12: solucao = 5240.0, melhor = 5234.0
+pivot = 13: solucao = 4630.0, melhor = 5240.0
+pivot = 14: solucao = 4928.0, melhor = 5240.0
+pivot = 15: solucao = 4831.0, melhor = 5240.0
+pivot = 16: solucao = 5253.0, melhor = 5240.0
+pivot = 17: solucao = 4945.0, melhor = 5253.0
+pivot = 18: solucao = 5005.0, melhor = 5253.0
+pivot = 19: solucao = 4995.0, melhor = 5253.0
+pivot = 20: solucao = 5258.0, melhor = 5253.0
+pivot = 21: solucao = 4834.0, melhor = 5258.0
+pivot = 22: solucao = 4781.0, melhor = 5258.0
+pivot = 23: solucao = 4722.0, melhor = 5258.0
+pivot = 24: solucao = 5174.0, melhor = 5258.0
+pivot = 25: solucao = 4630.0, melhor = 5258.0
+pivot = 26: solucao = 5050.0, melhor = 5258.0
+pivot = 27: solucao = 4924.0, melhor = 5258.0
+pivot = 28: solucao = 5083.0, melhor = 5258.0
+pivot = 29: solucao = 4470.0, melhor = 5258.0
+pivot = 30: solucao = 4536.0, melhor = 5258.0
+pivot = 31: solucao = 4624.0, melhor = 5258.0
+pivot = 32: solucao = 4741.0, melhor = 5258.0
+pivot = 33: solucao = 4623.0, melhor = 5258.0
+pivot = 34: solucao = 4378.0, melhor = 5258.0
+pivot = 35: solucao = 4885.0, melhor = 5258.0
+pivot = 36: solucao = 4691.0, melhor = 5258.0
+pivot = 37: solucao = 5024.0, melhor = 5258.0
+pivot = 38: solucao = 5004.0, melhor = 5258.0
+pivot = 39: solucao = 5057.0, melhor = 5258.0
+pivot = 40: solucao = 4845.0, melhor = 5258.0
+pivot = 41: solucao = 4955.0, melhor = 5258.0
+pivot = 42: solucao = 5115.0, melhor = 5258.0
+pivot = 43: solucao = 4592.0, melhor = 5258.0
+Melhor solucao encontrada = 5258.0 em 58 seg
+
+RESOLUCAO INTERROMPIDA!!! TEMPO MAXIMO EXCEDIDO!!!
+Problema resolvido em 61 segundos
+
+Arquivo 'saidas/heuristica/frb50-23-2-size.out' gravado!
+

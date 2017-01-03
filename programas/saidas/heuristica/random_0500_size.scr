@@ -1,0 +1,60 @@
+Lendo arquivo 'instancias/random_0500_size.in'...
+
+Problema tem 500 objetos e 110 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 282.0 em 0 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 320.0 em 0 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 320.0, melhor = 0.0
+pivot = 1: solucao = 318.0, melhor = 320.0
+pivot = 2: solucao = 315.0, melhor = 320.0
+pivot = 3: solucao = 312.0, melhor = 320.0
+pivot = 4: solucao = 312.0, melhor = 320.0
+pivot = 5: solucao = 310.0, melhor = 320.0
+pivot = 6: solucao = 309.0, melhor = 320.0
+pivot = 7: solucao = 307.0, melhor = 320.0
+pivot = 8: solucao = 306.0, melhor = 320.0
+pivot = 9: solucao = 306.0, melhor = 320.0
+pivot = 10: solucao = 305.0, melhor = 320.0
+pivot = 11: solucao = 305.0, melhor = 320.0
+pivot = 12: solucao = 302.0, melhor = 320.0
+pivot = 13: solucao = 302.0, melhor = 320.0
+pivot = 14: solucao = 300.0, melhor = 320.0
+pivot = 15: solucao = 299.0, melhor = 320.0
+pivot = 16: solucao = 294.0, melhor = 320.0
+pivot = 17: solucao = 292.0, melhor = 320.0
+pivot = 18: solucao = 290.0, melhor = 320.0
+pivot = 19: solucao = 289.0, melhor = 320.0
+pivot = 20: solucao = 289.0, melhor = 320.0
+pivot = 21: solucao = 283.0, melhor = 320.0
+pivot = 22: solucao = 282.0, melhor = 320.0
+pivot = 23: solucao = 280.0, melhor = 320.0
+pivot = 24: solucao = 279.0, melhor = 320.0
+pivot = 25: solucao = 279.0, melhor = 320.0
+pivot = 26: solucao = 278.0, melhor = 320.0
+pivot = 27: solucao = 278.0, melhor = 320.0
+pivot = 28: solucao = 271.0, melhor = 320.0
+pivot = 29: solucao = 269.0, melhor = 320.0
+pivot = 30: solucao = 260.0, melhor = 320.0
+pivot = 31: solucao = 258.0, melhor = 320.0
+pivot = 32: solucao = 258.0, melhor = 320.0
+pivot = 33: solucao = 256.0, melhor = 320.0
+Melhor solucao encontrada = 320.0 em 0 seg
+
+Executando heuristica gulosa estrela 1...
+pivot = 0: solucao = 282.0, melhor = 0.0
+pivot = 1: solucao = 239.0, melhor = 282.0
+pivot = 2: solucao = 310.0, melhor = 282.0
+pivot = 3: solucao = 46.0, melhor = 310.0
+Melhor solucao encontrada = 310.0 em 0 seg
+
+Problema resolvido em 0 segundos
+
+Arquivo 'saidas/heuristica/random_0500_size.out' gravado!
+

@@ -1,0 +1,49 @@
+Lendo arquivo 'instancias/frb35-17-4-size.in'...
+
+Problema tem 27842 objetos e 595 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 2259.0 em 0 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 2196.0 em 0 seg
+
+Executando heuristica gulosa estrela 1...
+pivot = 0: solucao = 2259.0, melhor = 0.0
+pivot = 1: solucao = 2024.0, melhor = 2259.0
+pivot = 2: solucao = 2154.0, melhor = 2259.0
+pivot = 3: solucao = 2156.0, melhor = 2259.0
+pivot = 4: solucao = 2242.0, melhor = 2259.0
+pivot = 5: solucao = 2150.0, melhor = 2259.0
+pivot = 6: solucao = 2040.0, melhor = 2259.0
+pivot = 7: solucao = 2247.0, melhor = 2259.0
+pivot = 8: solucao = 2408.0, melhor = 2259.0
+pivot = 9: solucao = 2151.0, melhor = 2408.0
+pivot = 10: solucao = 2253.0, melhor = 2408.0
+pivot = 11: solucao = 2250.0, melhor = 2408.0
+pivot = 12: solucao = 2253.0, melhor = 2408.0
+pivot = 13: solucao = 2246.0, melhor = 2408.0
+pivot = 14: solucao = 2236.0, melhor = 2408.0
+pivot = 15: solucao = 2242.0, melhor = 2408.0
+pivot = 16: solucao = 2244.0, melhor = 2408.0
+pivot = 17: solucao = 2259.0, melhor = 2408.0
+pivot = 18: solucao = 2050.0, melhor = 2408.0
+pivot = 19: solucao = 2104.0, melhor = 2408.0
+pivot = 20: solucao = 2199.0, melhor = 2408.0
+pivot = 21: solucao = 2098.0, melhor = 2408.0
+pivot = 22: solucao = 1894.0, melhor = 2408.0
+Melhor solucao encontrada = 2408.0 em 5 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 2196.0, melhor = 0.0
+pivot = 1: solucao = 2429.0, melhor = 2196.0
+pivot = 2: solucao = 2387.0, melhor = 2429.0
+pivot = 3: solucao = 1935.0, melhor = 2429.0
+Melhor solucao encontrada = 2429.0 em 1 seg
+
+Problema resolvido em 6 segundos
+
+Arquivo 'saidas/heuristica/frb35-17-4-size.out' gravado!
+

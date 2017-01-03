@@ -1,0 +1,52 @@
+Lendo arquivo 'instancias/frb50-23-3-size.in'...
+
+Problema tem 81068 objetos e 1150 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 4938.0 em 1 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 4987.0 em 2 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 4987.0, melhor = 0.0
+pivot = 1: solucao = 4987.0, melhor = 4987.0
+pivot = 2: solucao = 4735.0, melhor = 4987.0
+pivot = 3: solucao = 4733.0, melhor = 4987.0
+pivot = 4: solucao = 4463.0, melhor = 4987.0
+pivot = 5: solucao = 5024.0, melhor = 4987.0
+pivot = 6: solucao = 4987.0, melhor = 5024.0
+pivot = 7: solucao = 5054.0, melhor = 5024.0
+pivot = 8: solucao = 4735.0, melhor = 5054.0
+pivot = 9: solucao = 5342.0, melhor = 5054.0
+pivot = 10: solucao = 4463.0, melhor = 5342.0
+pivot = 11: solucao = 4963.0, melhor = 5342.0
+pivot = 12: solucao = 5006.0, melhor = 5342.0
+pivot = 13: solucao = 4861.0, melhor = 5342.0
+pivot = 14: solucao = 4987.0, melhor = 5342.0
+pivot = 15: solucao = 4913.0, melhor = 5342.0
+pivot = 16: solucao = 5054.0, melhor = 5342.0
+pivot = 17: solucao = 5155.0, melhor = 5342.0
+pivot = 18: solucao = 4735.0, melhor = 5342.0
+pivot = 19: solucao = 5029.0, melhor = 5342.0
+pivot = 20: solucao = 4491.0, melhor = 5342.0
+pivot = 21: solucao = 5207.0, melhor = 5342.0
+pivot = 22: solucao = 5181.0, melhor = 5342.0
+pivot = 23: solucao = 5261.0, melhor = 5342.0
+pivot = 24: solucao = 4762.0, melhor = 5342.0
+pivot = 25: solucao = 4587.0, melhor = 5342.0
+pivot = 26: solucao = 4471.0, melhor = 5342.0
+pivot = 27: solucao = 5033.0, melhor = 5342.0
+pivot = 28: solucao = 4371.0, melhor = 5342.0
+pivot = 29: solucao = 5026.0, melhor = 5342.0
+pivot = 30: solucao = 4654.0, melhor = 5342.0
+pivot = 31: solucao = 4861.0, melhor = 5342.0
+Melhor solucao encontrada = 5342.0 em 58 seg
+
+RESOLUCAO INTERROMPIDA!!! TEMPO MAXIMO EXCEDIDO!!!
+Problema resolvido em 61 segundos
+
+Arquivo 'saidas/heuristica/frb50-23-3-size.out' gravado!
+

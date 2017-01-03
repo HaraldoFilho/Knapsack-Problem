@@ -1,0 +1,58 @@
+Lendo arquivo 'instancias/frb50-23-4-rand10.in'...
+
+Problema tem 80258 objetos e 1150 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 301.0 em 2 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 303.0 em 2 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 303.0, melhor = 0.0
+pivot = 1: solucao = 303.0, melhor = 303.0
+pivot = 2: solucao = 313.0, melhor = 303.0
+pivot = 3: solucao = 307.0, melhor = 313.0
+pivot = 4: solucao = 303.0, melhor = 313.0
+pivot = 5: solucao = 277.0, melhor = 313.0
+pivot = 6: solucao = 303.0, melhor = 313.0
+pivot = 7: solucao = 305.0, melhor = 313.0
+pivot = 8: solucao = 303.0, melhor = 313.0
+pivot = 9: solucao = 308.0, melhor = 313.0
+pivot = 10: solucao = 315.0, melhor = 313.0
+pivot = 11: solucao = 297.0, melhor = 315.0
+pivot = 12: solucao = 303.0, melhor = 315.0
+pivot = 13: solucao = 289.0, melhor = 315.0
+pivot = 14: solucao = 308.0, melhor = 315.0
+pivot = 15: solucao = 311.0, melhor = 315.0
+pivot = 16: solucao = 303.0, melhor = 315.0
+pivot = 17: solucao = 302.0, melhor = 315.0
+pivot = 18: solucao = 310.0, melhor = 315.0
+pivot = 19: solucao = 303.0, melhor = 315.0
+pivot = 20: solucao = 302.0, melhor = 315.0
+pivot = 21: solucao = 311.0, melhor = 315.0
+pivot = 22: solucao = 318.0, melhor = 315.0
+pivot = 23: solucao = 303.0, melhor = 318.0
+pivot = 24: solucao = 315.0, melhor = 318.0
+pivot = 25: solucao = 303.0, melhor = 318.0
+pivot = 26: solucao = 303.0, melhor = 318.0
+pivot = 27: solucao = 302.0, melhor = 318.0
+pivot = 28: solucao = 289.0, melhor = 318.0
+pivot = 29: solucao = 303.0, melhor = 318.0
+pivot = 30: solucao = 289.0, melhor = 318.0
+pivot = 31: solucao = 284.0, melhor = 318.0
+pivot = 32: solucao = 303.0, melhor = 318.0
+pivot = 33: solucao = 302.0, melhor = 318.0
+pivot = 34: solucao = 282.0, melhor = 318.0
+pivot = 35: solucao = 303.0, melhor = 318.0
+pivot = 36: solucao = 295.0, melhor = 318.0
+pivot = 37: solucao = 295.0, melhor = 318.0
+Melhor solucao encontrada = 318.0 em 56 seg
+
+RESOLUCAO INTERROMPIDA!!! TEMPO MAXIMO EXCEDIDO!!!
+Problema resolvido em 60 segundos
+
+Arquivo 'saidas/heuristica/frb50-23-4-rand10.out' gravado!
+

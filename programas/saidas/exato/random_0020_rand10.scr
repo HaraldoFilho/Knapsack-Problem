@@ -1,0 +1,22 @@
+Lendo arquivo 'instancias/random_0020_rand10.in'...
+
+Problema tem 20 objetos e 20 compradores
+
+Resolvendo o problema por Programacao Linear Inteira...
+Iniciando o resolvedor GLPK...
+Executing GLPK simplex algorithm...
+|     0: obj =   1.080000000e+02  infeas =  0.000e+00 (0)
+|    19: obj =   2.000000000e+01  infeas =  0.000e+00 (0)
+Optimal solution found: 20.00
+Executing GLPK integer optimizer...
++    19: mip =     not found yet <=              +inf        (1; 0)
++    20: >>>>>   2.000000000e+01 <=   2.000000000e+01   0.0% (1; 0)
++    20: mip =   2.000000000e+01 <=     tree is empty   0.0% (0; 1)
+Optimal solution found: 20.0
+
+SOLUCAO OTIMA INTEIRA ENCONTRADA!!!
+
+Problema resolvido em 0 segundos
+
+Arquivo 'saidas/exato/random_0020_rand10.out' gravado!
+

@@ -1,0 +1,41 @@
+Lendo arquivo 'instancias/frb53-24-4-size.in'...
+
+Problema tem 94308 objetos e 1272 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 5074.0 em 2 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 5146.0 em 3 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 5146.0, melhor = 0.0
+pivot = 1: solucao = 5226.0, melhor = 5146.0
+pivot = 2: solucao = 5226.0, melhor = 5226.0
+pivot = 3: solucao = 5611.0, melhor = 5226.0
+pivot = 4: solucao = 5146.0, melhor = 5611.0
+pivot = 5: solucao = 5411.0, melhor = 5611.0
+pivot = 6: solucao = 5671.0, melhor = 5611.0
+pivot = 7: solucao = 5648.0, melhor = 5671.0
+pivot = 8: solucao = 5151.0, melhor = 5671.0
+pivot = 9: solucao = 5344.0, melhor = 5671.0
+pivot = 10: solucao = 5044.0, melhor = 5671.0
+pivot = 11: solucao = 5226.0, melhor = 5671.0
+pivot = 12: solucao = 5596.0, melhor = 5671.0
+pivot = 13: solucao = 5093.0, melhor = 5671.0
+pivot = 14: solucao = 5380.0, melhor = 5671.0
+pivot = 15: solucao = 5232.0, melhor = 5671.0
+pivot = 16: solucao = 5466.0, melhor = 5671.0
+pivot = 17: solucao = 5146.0, melhor = 5671.0
+pivot = 18: solucao = 5093.0, melhor = 5671.0
+pivot = 19: solucao = 5857.0, melhor = 5671.0
+pivot = 20: solucao = 5327.0, melhor = 5857.0
+Melhor solucao encontrada = 5857.0 em 57 seg
+
+RESOLUCAO INTERROMPIDA!!! TEMPO MAXIMO EXCEDIDO!!!
+Problema resolvido em 62 segundos
+
+Arquivo 'saidas/heuristica/frb53-24-4-size.out' gravado!
+

@@ -1,0 +1,226 @@
+Lendo arquivo 'instancias/frb35-17-1-unitario.in'...
+
+Problema tem 27856 objetos e 595 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 24.0 em 1 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 26.0 em 0 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 26.0, melhor = 0.0
+pivot = 1: solucao = 24.0, melhor = 26.0
+pivot = 2: solucao = 23.0, melhor = 26.0
+pivot = 3: solucao = 24.0, melhor = 26.0
+pivot = 4: solucao = 25.0, melhor = 26.0
+pivot = 5: solucao = 25.0, melhor = 26.0
+pivot = 6: solucao = 24.0, melhor = 26.0
+pivot = 7: solucao = 24.0, melhor = 26.0
+pivot = 8: solucao = 26.0, melhor = 26.0
+pivot = 9: solucao = 21.0, melhor = 26.0
+pivot = 10: solucao = 24.0, melhor = 26.0
+pivot = 11: solucao = 26.0, melhor = 26.0
+pivot = 12: solucao = 23.0, melhor = 26.0
+pivot = 13: solucao = 26.0, melhor = 26.0
+pivot = 14: solucao = 22.0, melhor = 26.0
+pivot = 15: solucao = 23.0, melhor = 26.0
+pivot = 16: solucao = 24.0, melhor = 26.0
+pivot = 17: solucao = 26.0, melhor = 26.0
+pivot = 18: solucao = 24.0, melhor = 26.0
+pivot = 19: solucao = 25.0, melhor = 26.0
+pivot = 20: solucao = 26.0, melhor = 26.0
+pivot = 21: solucao = 25.0, melhor = 26.0
+pivot = 22: solucao = 26.0, melhor = 26.0
+pivot = 23: solucao = 26.0, melhor = 26.0
+pivot = 24: solucao = 25.0, melhor = 26.0
+pivot = 25: solucao = 24.0, melhor = 26.0
+pivot = 26: solucao = 23.0, melhor = 26.0
+pivot = 27: solucao = 24.0, melhor = 26.0
+pivot = 28: solucao = 24.0, melhor = 26.0
+pivot = 29: solucao = 22.0, melhor = 26.0
+pivot = 30: solucao = 26.0, melhor = 26.0
+pivot = 31: solucao = 24.0, melhor = 26.0
+pivot = 32: solucao = 24.0, melhor = 26.0
+pivot = 33: solucao = 25.0, melhor = 26.0
+pivot = 34: solucao = 24.0, melhor = 26.0
+pivot = 35: solucao = 23.0, melhor = 26.0
+pivot = 36: solucao = 26.0, melhor = 26.0
+pivot = 37: solucao = 26.0, melhor = 26.0
+pivot = 38: solucao = 26.0, melhor = 26.0
+pivot = 39: solucao = 23.0, melhor = 26.0
+pivot = 40: solucao = 25.0, melhor = 26.0
+pivot = 41: solucao = 24.0, melhor = 26.0
+pivot = 42: solucao = 25.0, melhor = 26.0
+pivot = 43: solucao = 27.0, melhor = 26.0
+pivot = 44: solucao = 23.0, melhor = 27.0
+pivot = 45: solucao = 27.0, melhor = 27.0
+pivot = 46: solucao = 28.0, melhor = 27.0
+pivot = 47: solucao = 24.0, melhor = 28.0
+pivot = 48: solucao = 27.0, melhor = 28.0
+pivot = 49: solucao = 24.0, melhor = 28.0
+pivot = 50: solucao = 25.0, melhor = 28.0
+pivot = 51: solucao = 26.0, melhor = 28.0
+pivot = 52: solucao = 23.0, melhor = 28.0
+pivot = 53: solucao = 27.0, melhor = 28.0
+pivot = 54: solucao = 25.0, melhor = 28.0
+pivot = 55: solucao = 27.0, melhor = 28.0
+pivot = 56: solucao = 25.0, melhor = 28.0
+pivot = 57: solucao = 25.0, melhor = 28.0
+pivot = 58: solucao = 25.0, melhor = 28.0
+pivot = 59: solucao = 24.0, melhor = 28.0
+pivot = 60: solucao = 27.0, melhor = 28.0
+pivot = 61: solucao = 23.0, melhor = 28.0
+pivot = 62: solucao = 26.0, melhor = 28.0
+pivot = 63: solucao = 24.0, melhor = 28.0
+pivot = 64: solucao = 23.0, melhor = 28.0
+pivot = 65: solucao = 25.0, melhor = 28.0
+pivot = 66: solucao = 24.0, melhor = 28.0
+pivot = 67: solucao = 26.0, melhor = 28.0
+pivot = 68: solucao = 26.0, melhor = 28.0
+pivot = 69: solucao = 26.0, melhor = 28.0
+pivot = 70: solucao = 25.0, melhor = 28.0
+pivot = 71: solucao = 25.0, melhor = 28.0
+pivot = 72: solucao = 24.0, melhor = 28.0
+pivot = 73: solucao = 24.0, melhor = 28.0
+pivot = 74: solucao = 25.0, melhor = 28.0
+pivot = 75: solucao = 26.0, melhor = 28.0
+pivot = 76: solucao = 26.0, melhor = 28.0
+pivot = 77: solucao = 23.0, melhor = 28.0
+pivot = 78: solucao = 26.0, melhor = 28.0
+pivot = 79: solucao = 25.0, melhor = 28.0
+pivot = 80: solucao = 25.0, melhor = 28.0
+pivot = 81: solucao = 26.0, melhor = 28.0
+pivot = 82: solucao = 24.0, melhor = 28.0
+pivot = 83: solucao = 24.0, melhor = 28.0
+pivot = 84: solucao = 27.0, melhor = 28.0
+pivot = 85: solucao = 23.0, melhor = 28.0
+pivot = 86: solucao = 26.0, melhor = 28.0
+pivot = 87: solucao = 22.0, melhor = 28.0
+Melhor solucao encontrada = 28.0 em 19 seg
+
+Executando heuristica gulosa estrela 1...
+pivot = 0: solucao = 24.0, melhor = 0.0
+pivot = 1: solucao = 24.0, melhor = 24.0
+pivot = 2: solucao = 24.0, melhor = 24.0
+pivot = 3: solucao = 24.0, melhor = 24.0
+pivot = 4: solucao = 24.0, melhor = 24.0
+pivot = 5: solucao = 25.0, melhor = 24.0
+pivot = 6: solucao = 26.0, melhor = 25.0
+pivot = 7: solucao = 25.0, melhor = 26.0
+pivot = 8: solucao = 24.0, melhor = 26.0
+pivot = 9: solucao = 25.0, melhor = 26.0
+pivot = 10: solucao = 23.0, melhor = 26.0
+pivot = 11: solucao = 24.0, melhor = 26.0
+pivot = 12: solucao = 24.0, melhor = 26.0
+pivot = 13: solucao = 27.0, melhor = 26.0
+pivot = 14: solucao = 25.0, melhor = 27.0
+pivot = 15: solucao = 26.0, melhor = 27.0
+pivot = 16: solucao = 25.0, melhor = 27.0
+pivot = 17: solucao = 27.0, melhor = 27.0
+pivot = 18: solucao = 24.0, melhor = 27.0
+pivot = 19: solucao = 24.0, melhor = 27.0
+pivot = 20: solucao = 24.0, melhor = 27.0
+pivot = 21: solucao = 25.0, melhor = 27.0
+pivot = 22: solucao = 24.0, melhor = 27.0
+pivot = 23: solucao = 28.0, melhor = 27.0
+pivot = 24: solucao = 26.0, melhor = 28.0
+pivot = 25: solucao = 24.0, melhor = 28.0
+pivot = 26: solucao = 24.0, melhor = 28.0
+pivot = 27: solucao = 26.0, melhor = 28.0
+pivot = 28: solucao = 27.0, melhor = 28.0
+pivot = 29: solucao = 25.0, melhor = 28.0
+pivot = 30: solucao = 24.0, melhor = 28.0
+pivot = 31: solucao = 26.0, melhor = 28.0
+pivot = 32: solucao = 23.0, melhor = 28.0
+pivot = 33: solucao = 25.0, melhor = 28.0
+pivot = 34: solucao = 26.0, melhor = 28.0
+pivot = 35: solucao = 25.0, melhor = 28.0
+pivot = 36: solucao = 23.0, melhor = 28.0
+pivot = 37: solucao = 26.0, melhor = 28.0
+pivot = 38: solucao = 23.0, melhor = 28.0
+pivot = 39: solucao = 26.0, melhor = 28.0
+pivot = 40: solucao = 24.0, melhor = 28.0
+pivot = 41: solucao = 25.0, melhor = 28.0
+pivot = 42: solucao = 24.0, melhor = 28.0
+pivot = 43: solucao = 25.0, melhor = 28.0
+pivot = 44: solucao = 24.0, melhor = 28.0
+pivot = 45: solucao = 26.0, melhor = 28.0
+pivot = 46: solucao = 25.0, melhor = 28.0
+pivot = 47: solucao = 25.0, melhor = 28.0
+pivot = 48: solucao = 26.0, melhor = 28.0
+pivot = 49: solucao = 25.0, melhor = 28.0
+pivot = 50: solucao = 25.0, melhor = 28.0
+pivot = 51: solucao = 25.0, melhor = 28.0
+pivot = 52: solucao = 25.0, melhor = 28.0
+pivot = 53: solucao = 26.0, melhor = 28.0
+pivot = 54: solucao = 24.0, melhor = 28.0
+pivot = 55: solucao = 25.0, melhor = 28.0
+pivot = 56: solucao = 25.0, melhor = 28.0
+pivot = 57: solucao = 27.0, melhor = 28.0
+pivot = 58: solucao = 24.0, melhor = 28.0
+pivot = 59: solucao = 24.0, melhor = 28.0
+pivot = 60: solucao = 25.0, melhor = 28.0
+pivot = 61: solucao = 25.0, melhor = 28.0
+pivot = 62: solucao = 25.0, melhor = 28.0
+pivot = 63: solucao = 25.0, melhor = 28.0
+pivot = 64: solucao = 26.0, melhor = 28.0
+pivot = 65: solucao = 25.0, melhor = 28.0
+pivot = 66: solucao = 26.0, melhor = 28.0
+pivot = 67: solucao = 25.0, melhor = 28.0
+pivot = 68: solucao = 26.0, melhor = 28.0
+pivot = 69: solucao = 23.0, melhor = 28.0
+pivot = 70: solucao = 24.0, melhor = 28.0
+pivot = 71: solucao = 23.0, melhor = 28.0
+pivot = 72: solucao = 25.0, melhor = 28.0
+pivot = 73: solucao = 25.0, melhor = 28.0
+pivot = 74: solucao = 25.0, melhor = 28.0
+pivot = 75: solucao = 26.0, melhor = 28.0
+pivot = 76: solucao = 27.0, melhor = 28.0
+pivot = 77: solucao = 26.0, melhor = 28.0
+pivot = 78: solucao = 24.0, melhor = 28.0
+pivot = 79: solucao = 24.0, melhor = 28.0
+pivot = 80: solucao = 25.0, melhor = 28.0
+pivot = 81: solucao = 26.0, melhor = 28.0
+pivot = 82: solucao = 25.0, melhor = 28.0
+pivot = 83: solucao = 25.0, melhor = 28.0
+pivot = 84: solucao = 24.0, melhor = 28.0
+pivot = 85: solucao = 24.0, melhor = 28.0
+pivot = 86: solucao = 27.0, melhor = 28.0
+pivot = 87: solucao = 25.0, melhor = 28.0
+pivot = 88: solucao = 24.0, melhor = 28.0
+pivot = 89: solucao = 25.0, melhor = 28.0
+pivot = 90: solucao = 25.0, melhor = 28.0
+pivot = 91: solucao = 25.0, melhor = 28.0
+pivot = 92: solucao = 25.0, melhor = 28.0
+pivot = 93: solucao = 25.0, melhor = 28.0
+pivot = 94: solucao = 24.0, melhor = 28.0
+pivot = 95: solucao = 25.0, melhor = 28.0
+pivot = 96: solucao = 25.0, melhor = 28.0
+pivot = 97: solucao = 26.0, melhor = 28.0
+pivot = 98: solucao = 25.0, melhor = 28.0
+pivot = 99: solucao = 25.0, melhor = 28.0
+pivot = 100: solucao = 26.0, melhor = 28.0
+pivot = 101: solucao = 25.0, melhor = 28.0
+pivot = 102: solucao = 26.0, melhor = 28.0
+pivot = 103: solucao = 26.0, melhor = 28.0
+pivot = 104: solucao = 27.0, melhor = 28.0
+pivot = 105: solucao = 28.0, melhor = 28.0
+pivot = 106: solucao = 28.0, melhor = 28.0
+pivot = 107: solucao = 25.0, melhor = 28.0
+pivot = 108: solucao = 24.0, melhor = 28.0
+pivot = 109: solucao = 23.0, melhor = 28.0
+pivot = 110: solucao = 27.0, melhor = 28.0
+pivot = 111: solucao = 25.0, melhor = 28.0
+pivot = 112: solucao = 26.0, melhor = 28.0
+pivot = 113: solucao = 24.0, melhor = 28.0
+pivot = 114: solucao = 27.0, melhor = 28.0
+Melhor solucao encontrada = 28.0 em 40 seg
+
+RESOLUCAO INTERROMPIDA!!! TEMPO MAXIMO EXCEDIDO!!!
+Problema resolvido em 60 segundos
+
+Arquivo 'saidas/heuristica/frb35-17-1-unitario.out' gravado!
+

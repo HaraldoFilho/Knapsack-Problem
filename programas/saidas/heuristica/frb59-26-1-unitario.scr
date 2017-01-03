@@ -1,0 +1,33 @@
+Lendo arquivo 'instancias/frb59-26-1-unitario.in'...
+
+Problema tem 126555 objetos e 1534 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 43.0 em 4 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 41.0 em 3 seg
+
+Executando heuristica gulosa estrela 1...
+pivot = 0: solucao = 43.0, melhor = 0.0
+pivot = 1: solucao = 42.0, melhor = 43.0
+pivot = 2: solucao = 43.0, melhor = 43.0
+pivot = 3: solucao = 41.0, melhor = 43.0
+pivot = 4: solucao = 44.0, melhor = 43.0
+pivot = 5: solucao = 41.0, melhor = 44.0
+pivot = 6: solucao = 43.0, melhor = 44.0
+pivot = 7: solucao = 43.0, melhor = 44.0
+pivot = 8: solucao = 43.0, melhor = 44.0
+pivot = 9: solucao = 44.0, melhor = 44.0
+pivot = 10: solucao = 43.0, melhor = 44.0
+pivot = 11: solucao = 43.0, melhor = 44.0
+pivot = 12: solucao = 41.0, melhor = 44.0
+Melhor solucao encontrada = 44.0 em 56 seg
+
+RESOLUCAO INTERROMPIDA!!! TEMPO MAXIMO EXCEDIDO!!!
+Problema resolvido em 63 segundos
+
+Arquivo 'saidas/heuristica/frb59-26-1-unitario.out' gravado!
+

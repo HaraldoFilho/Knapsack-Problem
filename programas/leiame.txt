@@ -1,0 +1,39 @@
+COMPILAÇÃO:
+
+make exato : compila os aquivos fontes gerando o executável exato.
+make heuristica : compila os arquivos fontes gerando o executável heuristica.
+make [all] : compila os arquivos fontes gerando os executáveis exato e heuristica.
+make clean : apaga todos os arquivos objetos e executáveis gerados.
+
+Para instalar/desinstalar o GLPK, rodar em modo root:
+
+make glpk-install : instala o pacote glpk-4.43 no computador.
+make glpk-uninstall : desinstala o glpk e apaga todos os arquivos gerados.
+
+
+EXECUÇÃO:
+
+Antes de executar os programas copiar e descompactar o arquivo instancias.tgz no diretório atual.
+Os arquivos de entrada podem ser executados em seqüência através dos seguintes scripts:
+
+exato.run :
+
+Executa o programa exato para os arquivos de entrada random_*_*.in, frb30-15-*-
+*.in e frb35-17-*-*.in disponíveis no diretório instancias, gerando no diretório
+saidas/exato os arquivos *.out e *.scr correspondentes, que são respectivamente o
+arquivo de saída contendo a solução do problema e o arquivo para onde foram
+direcionadas as mensagens enviadas para a saída padrão pelo programa. 
+O tempo máximo de execução de cada arquivo foi fixado em 300 segundos (5 minutos).
+Os arquivos de entrada frb40-*.in a frb59-*.in não são executados, por
+terem uma quantidade de dados muito grandes que travaram o computador em
+que foram executados em testes prévios devido à alocação de toda a memória
+RAM disponível.
+
+heuristica.run :
+
+Executa o programa heuristica para cada arquivo de entrada disponível no
+diretório instancias, gerando no diretório saidas/heuristica os arquivos *.out e *.scr
+correspondentes, que são respectivamente o arquivo de saída contendo a solução
+do problema e o arquivo para onde foram direcionadas as mensagens enviadas
+para a saída padrão pelo programa. O tempo máximo de execução de cada
+arquivo foi fixado em 60 segundos.

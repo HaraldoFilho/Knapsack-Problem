@@ -1,0 +1,76 @@
+Lendo arquivo 'instancias/frb45-21-4-rand10.in'...
+
+Problema tem 58549 objetos e 945 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 258.0 em 1 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 273.0 em 1 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 273.0, melhor = 0.0
+pivot = 1: solucao = 262.0, melhor = 273.0
+pivot = 2: solucao = 276.0, melhor = 273.0
+pivot = 3: solucao = 262.0, melhor = 276.0
+pivot = 4: solucao = 273.0, melhor = 276.0
+pivot = 5: solucao = 265.0, melhor = 276.0
+pivot = 6: solucao = 273.0, melhor = 276.0
+pivot = 7: solucao = 273.0, melhor = 276.0
+pivot = 8: solucao = 285.0, melhor = 276.0
+pivot = 9: solucao = 284.0, melhor = 285.0
+pivot = 10: solucao = 266.0, melhor = 285.0
+pivot = 11: solucao = 271.0, melhor = 285.0
+pivot = 12: solucao = 284.0, melhor = 285.0
+pivot = 13: solucao = 274.0, melhor = 285.0
+pivot = 14: solucao = 281.0, melhor = 285.0
+pivot = 15: solucao = 273.0, melhor = 285.0
+pivot = 16: solucao = 255.0, melhor = 285.0
+pivot = 17: solucao = 267.0, melhor = 285.0
+pivot = 18: solucao = 263.0, melhor = 285.0
+pivot = 19: solucao = 273.0, melhor = 285.0
+pivot = 20: solucao = 257.0, melhor = 285.0
+pivot = 21: solucao = 284.0, melhor = 285.0
+pivot = 22: solucao = 276.0, melhor = 285.0
+pivot = 23: solucao = 271.0, melhor = 285.0
+pivot = 24: solucao = 262.0, melhor = 285.0
+pivot = 25: solucao = 264.0, melhor = 285.0
+pivot = 26: solucao = 273.0, melhor = 285.0
+pivot = 27: solucao = 265.0, melhor = 285.0
+pivot = 28: solucao = 259.0, melhor = 285.0
+pivot = 29: solucao = 273.0, melhor = 285.0
+pivot = 30: solucao = 270.0, melhor = 285.0
+pivot = 31: solucao = 273.0, melhor = 285.0
+pivot = 32: solucao = 259.0, melhor = 285.0
+pivot = 33: solucao = 273.0, melhor = 285.0
+pivot = 34: solucao = 273.0, melhor = 285.0
+pivot = 35: solucao = 266.0, melhor = 285.0
+pivot = 36: solucao = 265.0, melhor = 285.0
+pivot = 37: solucao = 273.0, melhor = 285.0
+pivot = 38: solucao = 280.0, melhor = 285.0
+pivot = 39: solucao = 275.0, melhor = 285.0
+pivot = 40: solucao = 268.0, melhor = 285.0
+pivot = 41: solucao = 259.0, melhor = 285.0
+pivot = 42: solucao = 260.0, melhor = 285.0
+pivot = 43: solucao = 273.0, melhor = 285.0
+pivot = 44: solucao = 273.0, melhor = 285.0
+pivot = 45: solucao = 277.0, melhor = 285.0
+pivot = 46: solucao = 267.0, melhor = 285.0
+pivot = 47: solucao = 265.0, melhor = 285.0
+pivot = 48: solucao = 284.0, melhor = 285.0
+pivot = 49: solucao = 280.0, melhor = 285.0
+pivot = 50: solucao = 272.0, melhor = 285.0
+pivot = 51: solucao = 270.0, melhor = 285.0
+pivot = 52: solucao = 273.0, melhor = 285.0
+pivot = 53: solucao = 267.0, melhor = 285.0
+pivot = 54: solucao = 270.0, melhor = 285.0
+pivot = 55: solucao = 276.0, melhor = 285.0
+Melhor solucao encontrada = 285.0 em 58 seg
+
+RESOLUCAO INTERROMPIDA!!! TEMPO MAXIMO EXCEDIDO!!!
+Problema resolvido em 60 segundos
+
+Arquivo 'saidas/heuristica/frb45-21-4-rand10.out' gravado!
+

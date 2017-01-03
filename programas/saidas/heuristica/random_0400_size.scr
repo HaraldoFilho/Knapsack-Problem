@@ -1,0 +1,58 @@
+Lendo arquivo 'instancias/random_0400_size.in'...
+
+Problema tem 400 objetos e 100 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 193.0 em 0 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 255.0 em 0 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 255.0, melhor = 0.0
+pivot = 1: solucao = 255.0, melhor = 255.0
+pivot = 2: solucao = 251.0, melhor = 255.0
+pivot = 3: solucao = 250.0, melhor = 255.0
+pivot = 4: solucao = 249.0, melhor = 255.0
+pivot = 5: solucao = 249.0, melhor = 255.0
+pivot = 6: solucao = 248.0, melhor = 255.0
+pivot = 7: solucao = 246.0, melhor = 255.0
+pivot = 8: solucao = 246.0, melhor = 255.0
+pivot = 9: solucao = 245.0, melhor = 255.0
+pivot = 10: solucao = 244.0, melhor = 255.0
+pivot = 11: solucao = 244.0, melhor = 255.0
+pivot = 12: solucao = 243.0, melhor = 255.0
+pivot = 13: solucao = 243.0, melhor = 255.0
+pivot = 14: solucao = 242.0, melhor = 255.0
+pivot = 15: solucao = 238.0, melhor = 255.0
+pivot = 16: solucao = 233.0, melhor = 255.0
+pivot = 17: solucao = 233.0, melhor = 255.0
+pivot = 18: solucao = 230.0, melhor = 255.0
+pivot = 19: solucao = 229.0, melhor = 255.0
+pivot = 20: solucao = 228.0, melhor = 255.0
+pivot = 21: solucao = 227.0, melhor = 255.0
+pivot = 22: solucao = 225.0, melhor = 255.0
+pivot = 23: solucao = 225.0, melhor = 255.0
+pivot = 24: solucao = 222.0, melhor = 255.0
+pivot = 25: solucao = 221.0, melhor = 255.0
+pivot = 26: solucao = 216.0, melhor = 255.0
+pivot = 27: solucao = 214.0, melhor = 255.0
+pivot = 28: solucao = 213.0, melhor = 255.0
+pivot = 29: solucao = 208.0, melhor = 255.0
+pivot = 30: solucao = 205.0, melhor = 255.0
+pivot = 31: solucao = 204.0, melhor = 255.0
+Melhor solucao encontrada = 255.0 em 0 seg
+
+Executando heuristica gulosa estrela 1...
+pivot = 0: solucao = 193.0, melhor = 0.0
+pivot = 1: solucao = 213.0, melhor = 193.0
+pivot = 2: solucao = 227.0, melhor = 213.0
+pivot = 3: solucao = 169.0, melhor = 227.0
+Melhor solucao encontrada = 227.0 em 0 seg
+
+Problema resolvido em 0 segundos
+
+Arquivo 'saidas/heuristica/random_0400_size.out' gravado!
+

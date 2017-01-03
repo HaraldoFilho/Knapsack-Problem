@@ -1,0 +1,114 @@
+Lendo arquivo 'instancias/frb40-19-1-unitario.in'...
+
+Problema tem 41314 objetos e 760 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 30.0 em 1 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 30.0 em 0 seg
+
+Executando heuristica gulosa estrela 1...
+pivot = 0: solucao = 30.0, melhor = 0.0
+pivot = 1: solucao = 30.0, melhor = 30.0
+pivot = 2: solucao = 28.0, melhor = 30.0
+pivot = 3: solucao = 30.0, melhor = 30.0
+pivot = 4: solucao = 28.0, melhor = 30.0
+pivot = 5: solucao = 28.0, melhor = 30.0
+pivot = 6: solucao = 30.0, melhor = 30.0
+pivot = 7: solucao = 29.0, melhor = 30.0
+pivot = 8: solucao = 29.0, melhor = 30.0
+pivot = 9: solucao = 26.0, melhor = 30.0
+pivot = 10: solucao = 30.0, melhor = 30.0
+pivot = 11: solucao = 28.0, melhor = 30.0
+pivot = 12: solucao = 29.0, melhor = 30.0
+pivot = 13: solucao = 30.0, melhor = 30.0
+pivot = 14: solucao = 29.0, melhor = 30.0
+pivot = 15: solucao = 29.0, melhor = 30.0
+pivot = 16: solucao = 30.0, melhor = 30.0
+pivot = 17: solucao = 27.0, melhor = 30.0
+pivot = 18: solucao = 28.0, melhor = 30.0
+pivot = 19: solucao = 29.0, melhor = 30.0
+pivot = 20: solucao = 30.0, melhor = 30.0
+pivot = 21: solucao = 28.0, melhor = 30.0
+pivot = 22: solucao = 30.0, melhor = 30.0
+pivot = 23: solucao = 27.0, melhor = 30.0
+pivot = 24: solucao = 28.0, melhor = 30.0
+pivot = 25: solucao = 30.0, melhor = 30.0
+pivot = 26: solucao = 31.0, melhor = 30.0
+pivot = 27: solucao = 29.0, melhor = 31.0
+pivot = 28: solucao = 31.0, melhor = 31.0
+pivot = 29: solucao = 29.0, melhor = 31.0
+pivot = 30: solucao = 29.0, melhor = 31.0
+pivot = 31: solucao = 31.0, melhor = 31.0
+pivot = 32: solucao = 30.0, melhor = 31.0
+pivot = 33: solucao = 30.0, melhor = 31.0
+pivot = 34: solucao = 30.0, melhor = 31.0
+pivot = 35: solucao = 28.0, melhor = 31.0
+pivot = 36: solucao = 29.0, melhor = 31.0
+pivot = 37: solucao = 31.0, melhor = 31.0
+pivot = 38: solucao = 28.0, melhor = 31.0
+pivot = 39: solucao = 30.0, melhor = 31.0
+pivot = 40: solucao = 31.0, melhor = 31.0
+pivot = 41: solucao = 27.0, melhor = 31.0
+pivot = 42: solucao = 30.0, melhor = 31.0
+pivot = 43: solucao = 30.0, melhor = 31.0
+pivot = 44: solucao = 32.0, melhor = 31.0
+pivot = 45: solucao = 30.0, melhor = 32.0
+pivot = 46: solucao = 30.0, melhor = 32.0
+pivot = 47: solucao = 31.0, melhor = 32.0
+pivot = 48: solucao = 31.0, melhor = 32.0
+pivot = 49: solucao = 30.0, melhor = 32.0
+pivot = 50: solucao = 29.0, melhor = 32.0
+pivot = 51: solucao = 29.0, melhor = 32.0
+pivot = 52: solucao = 30.0, melhor = 32.0
+pivot = 53: solucao = 31.0, melhor = 32.0
+pivot = 54: solucao = 29.0, melhor = 32.0
+pivot = 55: solucao = 30.0, melhor = 32.0
+pivot = 56: solucao = 29.0, melhor = 32.0
+pivot = 57: solucao = 30.0, melhor = 32.0
+pivot = 58: solucao = 30.0, melhor = 32.0
+pivot = 59: solucao = 31.0, melhor = 32.0
+pivot = 60: solucao = 30.0, melhor = 32.0
+pivot = 61: solucao = 31.0, melhor = 32.0
+pivot = 62: solucao = 30.0, melhor = 32.0
+pivot = 63: solucao = 29.0, melhor = 32.0
+pivot = 64: solucao = 27.0, melhor = 32.0
+pivot = 65: solucao = 29.0, melhor = 32.0
+pivot = 66: solucao = 30.0, melhor = 32.0
+pivot = 67: solucao = 29.0, melhor = 32.0
+pivot = 68: solucao = 28.0, melhor = 32.0
+pivot = 69: solucao = 30.0, melhor = 32.0
+pivot = 70: solucao = 29.0, melhor = 32.0
+pivot = 71: solucao = 30.0, melhor = 32.0
+pivot = 72: solucao = 30.0, melhor = 32.0
+pivot = 73: solucao = 28.0, melhor = 32.0
+pivot = 74: solucao = 29.0, melhor = 32.0
+pivot = 75: solucao = 30.0, melhor = 32.0
+pivot = 76: solucao = 28.0, melhor = 32.0
+pivot = 77: solucao = 29.0, melhor = 32.0
+pivot = 78: solucao = 29.0, melhor = 32.0
+pivot = 79: solucao = 28.0, melhor = 32.0
+pivot = 80: solucao = 29.0, melhor = 32.0
+pivot = 81: solucao = 30.0, melhor = 32.0
+pivot = 82: solucao = 28.0, melhor = 32.0
+pivot = 83: solucao = 30.0, melhor = 32.0
+pivot = 84: solucao = 29.0, melhor = 32.0
+pivot = 85: solucao = 28.0, melhor = 32.0
+pivot = 86: solucao = 28.0, melhor = 32.0
+pivot = 87: solucao = 29.0, melhor = 32.0
+pivot = 88: solucao = 30.0, melhor = 32.0
+pivot = 89: solucao = 30.0, melhor = 32.0
+pivot = 90: solucao = 31.0, melhor = 32.0
+pivot = 91: solucao = 29.0, melhor = 32.0
+pivot = 92: solucao = 27.0, melhor = 32.0
+pivot = 93: solucao = 28.0, melhor = 32.0
+Melhor solucao encontrada = 32.0 em 59 seg
+
+RESOLUCAO INTERROMPIDA!!! TEMPO MAXIMO EXCEDIDO!!!
+Problema resolvido em 60 segundos
+
+Arquivo 'saidas/heuristica/frb40-19-1-unitario.out' gravado!
+

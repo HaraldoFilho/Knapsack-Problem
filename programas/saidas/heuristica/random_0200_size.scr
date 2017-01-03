@@ -1,0 +1,42 @@
+Lendo arquivo 'instancias/random_0200_size.in'...
+
+Problema tem 200 objetos e 70 compradores
+
+Resolvendo o problema por conjunto de heuristicas...
+
+Executando heuristica gulosa 1...
+Solucao encontrada = 20.0 em 0 seg
+
+Executando heuristica gulosa 2...
+Solucao encontrada = 135.0 em 0 seg
+
+Executando heuristica gulosa estrela 2...
+pivot = 0: solucao = 135.0, melhor = 0.0
+pivot = 1: solucao = 129.0, melhor = 135.0
+pivot = 2: solucao = 127.0, melhor = 135.0
+pivot = 3: solucao = 125.0, melhor = 135.0
+pivot = 4: solucao = 124.0, melhor = 135.0
+pivot = 5: solucao = 124.0, melhor = 135.0
+pivot = 6: solucao = 122.0, melhor = 135.0
+pivot = 7: solucao = 121.0, melhor = 135.0
+pivot = 8: solucao = 119.0, melhor = 135.0
+pivot = 9: solucao = 118.0, melhor = 135.0
+pivot = 10: solucao = 116.0, melhor = 135.0
+pivot = 11: solucao = 112.0, melhor = 135.0
+pivot = 12: solucao = 112.0, melhor = 135.0
+pivot = 13: solucao = 111.0, melhor = 135.0
+pivot = 14: solucao = 109.0, melhor = 135.0
+pivot = 15: solucao = 106.0, melhor = 135.0
+Melhor solucao encontrada = 135.0 em 0 seg
+
+Executando heuristica gulosa estrela 1...
+pivot = 0: solucao = 20.0, melhor = 0.0
+pivot = 1: solucao = 33.0, melhor = 20.0
+pivot = 2: solucao = 88.0, melhor = 33.0
+pivot = 3: solucao = 34.0, melhor = 88.0
+Melhor solucao encontrada = 88.0 em 0 seg
+
+Problema resolvido em 0 segundos
+
+Arquivo 'saidas/heuristica/random_0200_size.out' gravado!
+
