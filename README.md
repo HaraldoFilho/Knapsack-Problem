@@ -1,5 +1,11 @@
 ## Problema da Mochila com Restrições de Conflito
 
+O **problema da mochila** _(em inglês, Knapsack problem)_ é um problema de optimização combinatória. O nome dá-se devido ao modelo de uma situação em que é necessário preencher uma mochila com objetos de diferentes pesos e valores. O objetivo é que se preencha a mochila com o maior valor possível, não ultrapassando o peso máximo.
+
+O problema da mochila é um dos 21 problemas NP-completos de Richard Karp, exposto em 1972. A formulação do problema é extremamente simples, porém sua solução é mais complexa. Este problema é a base do primeiro algoritmo de chave pública (chaves assimétricas).
+
+_Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Problema_da_mochila)_
+
 ### Definição do problema
 Um leiloeiro tem n objetos para leiloar, onde os objetos sao dados pelo conjunto N = {0, ..., n − 1}. Há m
 pessoas interessadas nos objetos, onde as pessoas são dadas pelo conjunto M = {0, ..., m − 1}. Cada pessoa
