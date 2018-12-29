@@ -20,6 +20,6 @@ O leiloeiro recebe todos os lances e só depois escolhe os vencedores. Como ele 
 venda, ele deve escolher os vencedores de maneira que o valor total pago a ele seja máximo.
 
 ### Referências
-- [Enunciado do projeto](https://github.com/HaraldoFilho/Problema-da-Mochila-com-Restricoes-de-Conflito/blob/master/enunciado.pdf)
-- [Relatório do projeto](https://github.com/HaraldoFilho/Problema-da-Mochila-com-Restricoes-de-Conflito/blob/master/relatorio.pdf)
+- [Enunciado do projeto](https://github.com/HaraldoFilho/Problema-da-Mochila/blob/master/enunciado.pdf)
+- [Relatório do projeto](https://github.com/HaraldoFilho/Problema-da-Mochila/blob/master/relatorio.pdf)
 - [Página do GLPK](https://www.gnu.org/software/glpk/)
